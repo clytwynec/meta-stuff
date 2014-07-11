@@ -1,0 +1,4 @@
+tddium:
+  :tests:
+    - echo "hi"
+    - which failure
