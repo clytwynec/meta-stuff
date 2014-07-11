@@ -1,4 +1,5 @@
 tddium:
   :tests:
     - echo "hi"
+    - echo "hey you"
     - which failure
